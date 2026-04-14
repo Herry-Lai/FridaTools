@@ -1,0 +1,664 @@
+{
+  "framework_version": "2.7.8",
+  "updated_at": "2026-04-15",
+  "changelog": "初始版本发布",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO@main",
+  "core": [
+    {
+      "file": "frida_logic.jse",
+      "server_path": "/plugins/frida/frida_logic.jse",
+      "hash": "56975d28e09e35128af0bb88a3d2c582",
+      "size": 72263
+    },
+    {
+      "file": "game-api.js",
+      "server_path": "/plugins/frida/game-api.js",
+      "hash": "b53ea00b84b198ca73b293c47688784e",
+      "size": 92093
+    },
+    {
+      "file": "frida.js",
+      "server_path": "/plugins/frida/frida.js",
+      "hash": "95332239331b17c829d52053e6c699a3",
+      "size": 6145
+    },
+    {
+      "file": "frida.config",
+      "server_path": "/plugins/frida/frida.config",
+      "hash": "917dbd0e15a65d4ae492837529c37527",
+      "size": 98
+    },
+    {
+      "file": "frida_config.json",
+      "server_path": "/plugins/frida/frida_config.json",
+      "hash": "cdd5d78782b31edea2f523be1e4d5b5f",
+      "size": 3407
+    }
+  ],
+  "projects": [
+    {
+      "name": "数据库模块",
+      "register_name": "数据库模块",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/数据库模块.js",
+        "server_path": "/plugins/frida/logic/数据库模块.js",
+        "encrypted": false,
+        "hash": "90cafc90d81ef7b4538f5e71db2a0c91",
+        "size": 3772
+      },
+      "config": null
+    },
+    {
+      "name": "使用道具进入副本",
+      "register_name": "使用道具进入副本",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/使用道具进入副本.js",
+        "server_path": "/plugins/frida/logic/使用道具进入副本.js",
+        "encrypted": false,
+        "hash": "4d425a41c706fcd5ee9ae6c5e8b15178",
+        "size": 1654
+      },
+      "config": null
+    },
+    {
+      "name": "多彩蜜蜡改跨界石",
+      "register_name": "多彩蜜蜡改跨界石",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/多彩蜜蜡改跨界石.js",
+        "server_path": "/plugins/frida/logic/多彩蜜蜡改跨界石.js",
+        "encrypted": false,
+        "hash": "9b17f6b7e63033d4d0c40c930b8ff335",
+        "size": 7978
+      },
+      "config": {
+        "file": "configs/多彩蜜蜡改跨界石.json",
+        "server_path": "/plugins/frida/configs/多彩蜜蜡改跨界石.json",
+        "hash": "cc8997977144c14544c13eca5dcdc67d",
+        "size": 210
+      }
+    },
+    {
+      "name": "装备镶嵌",
+      "register_name": "装备镶嵌",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/装备镶嵌.js",
+        "server_path": "/plugins/frida/logic/装备镶嵌.js",
+        "encrypted": false,
+        "hash": "7e77fd9c44512d311ad5d9a122044160",
+        "size": 23738
+      },
+      "config": {
+        "file": "configs/装备镶嵌.json",
+        "server_path": "/plugins/frida/configs/装备镶嵌.json",
+        "hash": "bca5cd9b4da703185f4104971817297c",
+        "size": 67
+      }
+    },
+    {
+      "name": "时装潜能",
+      "register_name": "时装潜能",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/时装潜能.js",
+        "server_path": "/plugins/frida/logic/时装潜能.js",
+        "encrypted": false,
+        "hash": "d93b198477e3d45601ad230d9de0cee4",
+        "size": 702
+      },
+      "config": null
+    },
+    {
+      "name": "时装升级",
+      "register_name": "时装升级",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/时装升级.js",
+        "server_path": "/plugins/frida/logic/时装升级.js",
+        "encrypted": false,
+        "hash": "d3eaeda0c23d266331dc18948a50b233",
+        "size": 8058
+      },
+      "config": {
+        "file": "configs/时装升级.json",
+        "server_path": "/plugins/frida/configs/时装升级.json",
+        "hash": "66d73d776dbebbf395db01758d1a5e49",
+        "size": 3265
+      }
+    },
+    {
+      "name": "史诗魔法封印",
+      "register_name": "史诗魔法封印",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/史诗魔法封印.jse",
+        "server_path": "/plugins/frida/logic/史诗魔法封印.jse",
+        "encrypted": true,
+        "hash": "7089e15a1200ae7e0da9ec758585ce97",
+        "size": 22314
+      },
+      "config": null
+    },
+    {
+      "name": "SP_TP_属性石返还",
+      "register_name": "SP_TP_属性石返还",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/SP_TP_属性石返还.js",
+        "server_path": "/plugins/frida/logic/SP_TP_属性石返还.js",
+        "encrypted": false,
+        "hash": "36bebc5119570217f48af950d471fdc3",
+        "size": 7938
+      },
+      "config": null
+    },
+    {
+      "name": "杂项功能",
+      "register_name": "杂项功能",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/杂项功能.js",
+        "server_path": "/plugins/frida/logic/杂项功能.js",
+        "encrypted": false,
+        "hash": "71492ab00fb79568e3878ac102db7130",
+        "size": 31674
+      },
+      "config": {
+        "file": "configs/杂项功能.json",
+        "server_path": "/plugins/frida/configs/杂项功能.json",
+        "hash": "0faa07295e3eb1b4159af1b344a3482b",
+        "size": 1298
+      }
+    },
+    {
+      "name": "副本播报",
+      "register_name": "副本播报",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/副本播报.jse",
+        "server_path": "/plugins/frida/logic/副本播报.jse",
+        "encrypted": true,
+        "hash": "cd644e7e2babc0313f809a99819a533d",
+        "size": 49538
+      },
+      "config": {
+        "file": "configs/副本播报.json",
+        "server_path": "/plugins/frida/configs/副本播报.json",
+        "hash": "5832dbeadfd7fd067a11057f841a92cc",
+        "size": 1104
+      }
+    },
+    {
+      "name": "史诗奖励",
+      "register_name": "史诗奖励",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/史诗奖励.js",
+        "server_path": "/plugins/frida/logic/史诗奖励.js",
+        "encrypted": false,
+        "hash": "e6bef84bd1cf3354e9b389dae13bda89",
+        "size": 15074
+      },
+      "config": {
+        "file": "configs/史诗奖励.json",
+        "server_path": "/plugins/frida/configs/史诗奖励.json",
+        "hash": "040eba9fa0bfa24ef4e4231001953e61",
+        "size": 3943
+      }
+    },
+    {
+      "name": "在线奖励",
+      "register_name": "在线奖励",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/在线奖励.js",
+        "server_path": "/plugins/frida/logic/在线奖励.js",
+        "encrypted": false,
+        "hash": "2e7bf7a4cf3acc686588598ed2cf7091",
+        "size": 12863
+      },
+      "config": {
+        "file": "configs/在线奖励.json",
+        "server_path": "/plugins/frida/configs/在线奖励.json",
+        "hash": "1d3128ec54f8ee1eb6fc7a7ab73016e7",
+        "size": 2683
+      }
+    },
+    {
+      "name": "魔盒保底系统",
+      "register_name": "魔盒保底系统",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/魔盒保底系统.js",
+        "server_path": "/plugins/frida/logic/魔盒保底系统.js",
+        "encrypted": false,
+        "hash": "95bb3a6d84516b82e0aee86e3b88d9c7",
+        "size": 4628
+      },
+      "config": {
+        "file": "configs/魔盒保底系统.json",
+        "server_path": "/plugins/frida/configs/魔盒保底系统.json",
+        "hash": "014c774b6082182344179cd2a1c89d3f",
+        "size": 212
+      }
+    },
+    {
+      "name": "抗魔值进入副本",
+      "register_name": "抗魔值进入副本",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/抗魔值进入副本.js",
+        "server_path": "/plugins/frida/logic/抗魔值进入副本.js",
+        "encrypted": false,
+        "hash": "db27f0a3acf39637961e5130f66ff1f9",
+        "size": 3550
+      },
+      "config": {
+        "file": "configs/抗魔值进入副本.json",
+        "server_path": "/plugins/frida/configs/抗魔值进入副本.json",
+        "hash": "92c206dc62668d551c124f3ea713fe16",
+        "size": 933
+      }
+    },
+    {
+      "name": "怪物攻城",
+      "register_name": "怪物攻城",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/怪物攻城.js",
+        "server_path": "/plugins/frida/logic/怪物攻城.js",
+        "encrypted": false,
+        "hash": "8af1787cb95de429088c91b176451885",
+        "size": 10969
+      },
+      "config": {
+        "file": "configs/怪物攻城.json",
+        "server_path": "/plugins/frida/configs/怪物攻城.json",
+        "hash": "ae605192f0e257ea055fec031c1cc7a3",
+        "size": 657
+      }
+    },
+    {
+      "name": "宠物附魔",
+      "register_name": "宠物附魔",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/宠物附魔.js",
+        "server_path": "/plugins/frida/logic/宠物附魔.js",
+        "encrypted": false,
+        "hash": "3b6e84f31d07b6b4b55aa6e979cb558a",
+        "size": 5912
+      },
+      "config": null
+    },
+    {
+      "name": "动态调整深渊爆率",
+      "register_name": "动态调整深渊爆率",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/动态调整深渊爆率.js",
+        "server_path": "/plugins/frida/logic/动态调整深渊爆率.js",
+        "encrypted": false,
+        "hash": "3380f332b14cf159c7bc10d163cec587",
+        "size": 4361
+      },
+      "config": {
+        "file": "configs/动态调整深渊爆率.json",
+        "server_path": "/plugins/frida/configs/动态调整深渊爆率.json",
+        "hash": "0c087c80f5df6c8a80e114db3c521834",
+        "size": 371
+      }
+    },
+    {
+      "name": "独立掉落系统",
+      "register_name": "独立掉落系统",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/独立掉落系统.js",
+        "server_path": "/plugins/frida/logic/独立掉落系统.js",
+        "encrypted": false,
+        "hash": "59758c2f7fe019aac6094bdaadea70ed",
+        "size": 12363
+      },
+      "config": null
+    },
+    {
+      "name": "交易播报",
+      "register_name": "交易播报",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/交易播报.jse",
+        "server_path": "/plugins/frida/logic/交易播报.jse",
+        "encrypted": true,
+        "hash": "ee7463565b2c1c43d40e558413575535",
+        "size": 47028
+      },
+      "config": null
+    },
+    {
+      "name": "悬赏模块",
+      "register_name": "悬赏模块",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/悬赏模块.js",
+        "server_path": "/plugins/frida/logic/悬赏模块.js",
+        "encrypted": false,
+        "hash": "bed8f6258b064ca26875e56999031a52",
+        "size": 9597
+      },
+      "config": {
+        "file": "configs/悬赏模块.json",
+        "server_path": "/plugins/frida/configs/悬赏模块.json",
+        "hash": "760f9f7aa69a55c96f32755b4d78ca65",
+        "size": 580
+      }
+    },
+    {
+      "name": "防外挂系统",
+      "register_name": "防外挂系统",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/防外挂系统.jse",
+        "server_path": "/plugins/frida/logic/防外挂系统.jse",
+        "encrypted": true,
+        "hash": "5ffd8e13f2225865a34e2eabe9658873",
+        "size": 36991
+      },
+      "config": {
+        "file": "configs/防外挂系统.json",
+        "server_path": "/plugins/frida/configs/防外挂系统.json",
+        "hash": "f6ce9cfa72936a80d8746139b1078502",
+        "size": 704
+      }
+    },
+    {
+      "name": "自动刷新邮件",
+      "register_name": "自动刷新邮件",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/自动刷新邮件.jse",
+        "server_path": "/plugins/frida/logic/自动刷新邮件.jse",
+        "encrypted": true,
+        "hash": "b93f58f9373ec652078f4ffabe738135",
+        "size": 34179
+      },
+      "config": null
+    },
+    {
+      "name": "十连魔盒",
+      "register_name": "十连魔盒",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/十连魔盒.js",
+        "server_path": "/plugins/frida/logic/十连魔盒.js",
+        "encrypted": false,
+        "hash": "a79c59e662ea19160c19147c3f15e344",
+        "size": 4355
+      },
+      "config": {
+        "file": "configs/十连魔盒.json",
+        "server_path": "/plugins/frida/configs/十连魔盒.json",
+        "hash": "17b9534ce8d4805f545eb6e0b3d9c9a2",
+        "size": 3803
+      }
+    },
+    {
+      "name": "指定副本金牌奖励",
+      "register_name": "指定副本金牌奖励",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/指定副本金牌奖励.js",
+        "server_path": "/plugins/frida/logic/指定副本金牌奖励.js",
+        "encrypted": false,
+        "hash": "005edc58bf5e08316239b60fcc86df92",
+        "size": 4927
+      },
+      "config": {
+        "file": "configs/指定副本金牌奖励.json",
+        "server_path": "/plugins/frida/configs/指定副本金牌奖励.json",
+        "hash": "54713b8e1e1eafae9345290f7327924f",
+        "size": 4649
+      }
+    },
+    {
+      "name": "深渊探险活动",
+      "register_name": "深渊探险活动",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/深渊探险活动.js",
+        "server_path": "/plugins/frida/logic/深渊探险活动.js",
+        "encrypted": false,
+        "hash": "18c29ab5bfdc84de1394faf66f7f6d4a",
+        "size": 13917
+      },
+      "config": {
+        "file": "configs/深渊探险活动.json",
+        "server_path": "/plugins/frida/configs/深渊探险活动.json",
+        "hash": "f53d433270d33601d288573218809778",
+        "size": 1381
+      }
+    },
+    {
+      "name": "NPC商店限购",
+      "register_name": "NPC商店限购",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/NPC商店限购.js",
+        "server_path": "/plugins/frida/logic/NPC商店限购.js",
+        "encrypted": false,
+        "hash": "fef45c63cb9199bdbbaeb380be123856",
+        "size": 7331
+      },
+      "config": {
+        "file": "configs/NPC商店限购.json",
+        "server_path": "/plugins/frida/configs/NPC商店限购.json",
+        "hash": "a5fad7c5b8114c2a915907a55e406395",
+        "size": 383
+      }
+    },
+    {
+      "name": "转职觉醒券",
+      "register_name": "转职觉醒券",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/转职觉醒券.js",
+        "server_path": "/plugins/frida/logic/转职觉醒券.js",
+        "encrypted": false,
+        "hash": "5cd4bffeb10c3c709a9bfa2f33747b80",
+        "size": 5176
+      },
+      "config": null
+    },
+    {
+      "name": "强化增幅锻造加成",
+      "register_name": "强化增幅锻造加成",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/强化增幅锻造加成.js",
+        "server_path": "/plugins/frida/logic/强化增幅锻造加成.js",
+        "encrypted": false,
+        "hash": "fcc08ac1f64e9155a918447d517bfa6a",
+        "size": 5387
+      },
+      "config": {
+        "file": "configs/强化增幅锻造加成.json",
+        "server_path": "/plugins/frida/configs/强化增幅锻造加成.json",
+        "hash": "a3369d61801d8abdcff08042e22c570d",
+        "size": 1676
+      }
+    },
+    {
+      "name": "账号仓库120格",
+      "register_name": "账号仓库120格",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/账号仓库120格.jse",
+        "server_path": "/plugins/frida/logic/账号仓库120格.jse",
+        "encrypted": true,
+        "hash": "49fee417b21882ba489ce4395d7240d3",
+        "size": 172618
+      },
+      "config": null
+    },
+    {
+      "name": "战力榜雕像",
+      "register_name": "战力榜雕像",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/战力榜雕像.js",
+        "server_path": "/plugins/frida/logic/战力榜雕像.js",
+        "encrypted": false,
+        "hash": "9401e009c97a2f6f1c7d0484d9c69e64",
+        "size": 11825
+      },
+      "config": {
+        "file": "configs/战力榜雕像.json",
+        "server_path": "/plugins/frida/configs/战力榜雕像.json",
+        "hash": "16612b759ed4f157ec44fedf673e2e77",
+        "size": 3614
+      }
+    },
+    {
+      "name": "上线播报",
+      "register_name": "上线播报",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/上线播报.js",
+        "server_path": "/plugins/frida/logic/上线播报.js",
+        "encrypted": false,
+        "hash": "96db1b6a4f2850714c53d38c711dcd47",
+        "size": 6993
+      },
+      "config": {
+        "file": "configs/上线播报.json",
+        "server_path": "/plugins/frida/configs/上线播报.json",
+        "hash": "5dad6c129114bfaa2458b0e64f199859",
+        "size": 4563
+      }
+    },
+    {
+      "name": "心悦播报",
+      "register_name": "心悦播报",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/心悦播报.js",
+        "server_path": "/plugins/frida/logic/心悦播报.js",
+        "encrypted": false,
+        "hash": "ed0d6ffff2aa9816a85a8f041768a81e",
+        "size": 2061
+      },
+      "config": {
+        "file": "configs/心悦播报.json",
+        "server_path": "/plugins/frida/configs/心悦播报.json",
+        "hash": "66f44fe1b5a076c61e984378b3bb69f0",
+        "size": 1034
+      }
+    },
+    {
+      "name": "回收系统",
+      "register_name": "回收系统",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/回收系统.js",
+        "server_path": "/plugins/frida/logic/回收系统.js",
+        "encrypted": false,
+        "hash": "78923f481447687b9dba97228a02c955",
+        "size": 4654
+      },
+      "config": {
+        "file": "configs/回收系统.json",
+        "server_path": "/plugins/frida/configs/回收系统.json",
+        "hash": "ff5f9d532a2bb4130409874adbf74979",
+        "size": 156
+      }
+    },
+    {
+      "name": "史诗大比拼",
+      "register_name": "史诗大比拼",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/史诗大比拼.js",
+        "server_path": "/plugins/frida/logic/史诗大比拼.js",
+        "encrypted": false,
+        "hash": "177a0e4f9ce49f169ae32f550e2a9e32",
+        "size": 9282
+      },
+      "config": {
+        "file": "configs/史诗大比拼.json",
+        "server_path": "/plugins/frida/configs/史诗大比拼.json",
+        "hash": "86be8e08163116e6be915859df5f2372",
+        "size": 1475
+      }
+    },
+    {
+      "name": "史诗药剂",
+      "register_name": "史诗药剂",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/史诗药剂.js",
+        "server_path": "/plugins/frida/logic/史诗药剂.js",
+        "encrypted": false,
+        "hash": "9006959b2898f321ae9d5e3584de0a78",
+        "size": 2747
+      },
+      "config": {
+        "file": "configs/史诗药剂.json",
+        "server_path": "/plugins/frida/configs/史诗药剂.json",
+        "hash": "e9c92b1ecbd6138ae68c04222ef4329c",
+        "size": 108
+      }
+    },
+    {
+      "name": "道具使用事件",
+      "register_name": "道具使用事件",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/道具使用事件.js",
+        "server_path": "/plugins/frida/logic/道具使用事件.js",
+        "encrypted": false,
+        "hash": "fb8f8680e36143671b4db24b2ffa1c85",
+        "size": 34427
+      },
+      "config": {
+        "file": "configs/道具使用事件.json",
+        "server_path": "/plugins/frida/configs/道具使用事件.json",
+        "hash": "d2f8be3cc928f47537e3e6dadfe37a96",
+        "size": 19189
+      }
+    },
+    {
+      "name": "角色槽位数量限制",
+      "register_name": "角色槽位数量限制",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/角色槽位数量限制.js",
+        "server_path": "/plugins/frida/logic/角色槽位数量限制.js",
+        "encrypted": false,
+        "hash": "e52fc6d3485d24b21219eb7dca2c42c0",
+        "size": 3104
+      },
+      "config": {
+        "file": "configs/角色槽位数量限制.json",
+        "server_path": "/plugins/frida/configs/角色槽位数量限制.json",
+        "hash": "2168fc837eb429d4d7bdf10eaba4fa9d",
+        "size": 91
+      }
+    },
+    {
+      "name": "任务相关",
+      "register_name": "任务相关",
+      "version": "1.0.0",
+      "logic": {
+        "file": "logic/任务相关.js",
+        "server_path": "/plugins/frida/logic/任务相关.js",
+        "encrypted": false,
+        "hash": "9ff775f96a4fd1c413f99ffba6b7865d",
+        "size": 7319
+      },
+      "config": null
+    }
+  ]
+}
