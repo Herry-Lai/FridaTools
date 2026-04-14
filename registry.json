@@ -2,7 +2,7 @@
   "framework_version": "2.7.8",
   "updated_at": "2026-04-15",
   "changelog": "初始版本发布",
-  "cdn_base": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO@main",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/Herry-Lai/FridaTools@main",
   "core": [
     {
       "file": "frida_logic.jse",
