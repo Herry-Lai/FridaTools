@@ -1,0 +1,153 @@
+{
+    "说明": "true开启模块/false关闭模块",
+    "modules": [
+        {
+            "name": "数据库模块",
+            "enabled": true
+        },
+        {
+            "name": "使用道具进入副本",
+            "enabled": false
+        },
+        {
+            "name": "多彩蜜蜡改跨界石",
+            "enabled": false
+        },
+        {
+            "name": "装备镶嵌",
+            "enabled": false
+        },
+        {
+            "name": "时装潜能",
+            "enabled": false
+        },
+        {
+            "name": "时装升级",
+            "enabled": false
+        },
+        {
+            "name": "史诗魔法封印",
+            "enabled": false
+        },
+        {
+            "name": "SP_TP_属性石返还",
+            "enabled": false
+        },
+        {
+            "name": "杂项功能",
+            "enabled": false
+        },
+        {
+            "name": "副本播报",
+            "enabled": false
+        },
+        {
+            "name": "史诗奖励",
+            "enabled": false
+        },
+        {
+            "name": "在线奖励",
+            "enabled": false
+        },
+        {
+            "name": "魔盒保底系统",
+            "enabled": false
+        },
+        {
+            "name": "抗魔值进入副本",
+            "enabled": false
+        },
+        {
+            "name": "怪物攻城",
+            "enabled": false
+        },
+        {
+            "name": "宠物附魔",
+            "enabled": false
+        },
+        {
+            "name": "动态调整深渊爆率",
+            "enabled": false
+        },
+        {
+            "name": "独立掉落系统",
+            "enabled": false
+        },
+        {
+            "name": "交易播报",
+            "enabled": false
+        },
+        {
+            "name": "悬赏模块",
+            "enabled": false
+        },
+        {
+            "name": "防外挂系统",
+            "enabled": false
+        },
+        {
+            "name": "自动刷新邮件",
+            "enabled": false
+        },
+        {
+            "name": "十连魔盒",
+            "enabled": false
+        },
+        {
+            "name": "指定副本金牌奖励",
+            "enabled": false
+        },
+        {
+            "name": "深渊探险活动",
+            "enabled": false
+        },
+        {
+            "name": "NPC商店限购",
+            "enabled": false
+        },
+        {
+            "name": "转职觉醒券",
+            "enabled": false
+        },
+        {
+            "name": "强化增幅锻造加成",
+            "enabled": false
+        },
+        {
+            "name": "账号仓库120格",
+            "enabled": false
+        },
+        {
+            "name": "战力榜雕像",
+            "enabled": false
+        },
+        {
+            "name": "上线播报",
+            "enabled": true
+        },
+        {
+            "name": "心悦播报",
+            "enabled": false
+        },
+        {
+            "name": "回收系统",
+            "enabled": false
+        },
+        {
+            "name": "史诗大比拼",
+            "enabled": false
+        },
+        {
+            "name": "史诗药剂",
+            "enabled": false
+        },
+        {
+            "name": "道具使用事件",
+            "enabled": false
+        },
+        {
+            "name": "角色槽位数量限制",
+            "enabled": false
+        }
+    ]
+}

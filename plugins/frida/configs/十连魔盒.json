@@ -1,0 +1,142 @@
+{
+    "ITEM_ID": 2024120609,
+    "pools": {
+        "1": {
+            "count": 10,
+            "items": [
+                {
+                    "id": 3037,
+                    "rate": 50000,
+                    "number": 100,
+                    "broadcast": 0
+                },
+                {
+                    "id": 3038,
+                    "rate": 5,
+                    "number": 1,
+                    "broadcast": 0
+                },
+                {
+                    "id": 7422,
+                    "rate": 5,
+                    "number": 10,
+                    "broadcast": 0
+                },
+                {
+                    "id": 7422,
+                    "rate": 10000,
+                    "number": 10,
+                    "broadcast": 0
+                },
+                {
+                    "id": 7422,
+                    "rate": 20000,
+                    "number": 20,
+                    "broadcast": 0
+                },
+                {
+                    "id": 7422,
+                    "rate": 12500,
+                    "number": 50,
+                    "broadcast": 0
+                },
+                {
+                    "id": 7422,
+                    "rate": 3500,
+                    "number": 100,
+                    "broadcast": 0
+                },
+                {
+                    "id": 8,
+                    "rate": 20000,
+                    "number": 5,
+                    "broadcast": 1
+                },
+                {
+                    "id": 8,
+                    "rate": 17500,
+                    "number": 10,
+                    "broadcast": 1
+                },
+                {
+                    "id": 8,
+                    "rate": 12500,
+                    "number": 20,
+                    "broadcast": 0
+                },
+                {
+                    "id": 8,
+                    "rate": 7500,
+                    "number": 50,
+                    "broadcast": 0
+                },
+                {
+                    "id": 8,
+                    "rate": 3500,
+                    "number": 100,
+                    "broadcast": 0
+                },
+                {
+                    "id": 3038,
+                    "rate": 5,
+                    "number": 10,
+                    "broadcast": 0
+                },
+                {
+                    "id": 3039,
+                    "rate": 5,
+                    "number": 10,
+                    "broadcast": 0
+                },
+                {
+                    "id": 36,
+                    "rate": 5,
+                    "number": 10,
+                    "broadcast": 0
+                },
+                {
+                    "id": 42,
+                    "rate": 5,
+                    "number": 10,
+                    "broadcast": 1
+                }
+            ]
+        },
+        "2": {
+            "items": [
+                {
+                    "id": 3039,
+                    "rate": 5,
+                    "number": 2,
+                    "broadcast": 0
+                },
+                {
+                    "id": 3038,
+                    "rate": 5,
+                    "number": 1,
+                    "broadcast": 0
+                }
+            ]
+        }
+    },
+    "broadcast": {
+        "type": 37,
+        "icon": 59,
+        "messages": [
+            {
+                "text": " 恭喜玩家",
+                "color": [192, 192, 192, 255]
+            },
+            {
+                "text": "在龙鳞魔盒获得",
+                "color": [56, 200, 230, 255]
+            }
+        ],
+        "nameColor": [255, 215, 0, 255]
+    },
+    "mail": {
+        "title": "GM",
+        "content": "由于您的背包已满，10连魔盒的奖励已补发，请查收！",
+        "maxItemsPerMail": 10
+    }
+}
