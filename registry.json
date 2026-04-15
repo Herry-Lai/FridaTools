@@ -651,7 +651,7 @@
   "runtime": [
     {
       "name": "frida.so",
-      "description": "Frida 运行时核心库",
+      "description": "Frida 运行时核心库啊",
       "server_path": "/plugins/frida/frida.so",
       "binary": true,
       "download_url": "https://github.com/Herry-Lai/FridaTools/releases/download/v1.0.0/frida.so",
