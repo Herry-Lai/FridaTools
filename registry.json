@@ -1,7 +1,7 @@
 {
-  "framework_version": "2.7.8",
+  "framework_version": "1.0.0",
   "updated_at": "2026-04-15",
-  "changelog": "初始版本发布",
+  "changelog": "正式版V1.0.0",
   "cdn_base": "https://cdn.jsdelivr.net/gh/Herry-Lai/FridaTools@main",
   "core": [
     {
@@ -646,19 +646,6 @@
         "hash": "2168fc837eb429d4d7bdf10eaba4fa9d",
         "size": 91
       }
-    },
-    {
-      "name": "任务相关",
-      "register_name": "任务相关",
-      "version": "1.0.0",
-      "logic": {
-        "file": "plugins/frida/logic/任务相关.js",
-        "server_path": "/plugins/frida/logic/任务相关.js",
-        "encrypted": false,
-        "hash": "9ff775f96a4fd1c413f99ffba6b7865d",
-        "size": 7319
-      },
-      "config": null
     }
   ],
   "runtime": [
